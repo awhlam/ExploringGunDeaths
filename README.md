@@ -1,4 +1,4 @@
-# ExploringGunDeaths
+# Exploring Gun Deaths
 Jupyter Notebook in Python for exploring data set of gun deaths in the U.S. as part of Dataquest's [guided project](https://www.dataquest.io/course/python-programming-intermediate).
 
 ## Release History
